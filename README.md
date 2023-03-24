@@ -37,3 +37,5 @@ brew install ripgrep
 ```bash
 xcode-select --install
 ```
+
+## Tmux
