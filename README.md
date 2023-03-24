@@ -1,6 +1,7 @@
 # My personal workflow with Nvim + Tmux
 
 ***Experience is everything!***
+These settings can make you focus on your workflow and improve coding efficiency. 
 
 ![My work flow](https://raw.githubusercontent.com/yingxiaowoxx/Blog-img/master/img/93d1e7654df592a51374330b508c1106.png)
 
