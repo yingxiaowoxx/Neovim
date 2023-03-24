@@ -1,7 +1,12 @@
 # My personal workflow with nvim
 
+***Experience is everything!***
+
+![](https://raw.githubusercontent.com/yingxiaowoxx/Blog-img/master/img/93d1e7654df592a51374330b508c1106.png)
+
+
 ## Requirement
-> HOMEBREW
+> ***HOMEBREW***
 
 Install [homebrew](https://brew.sh/) to manage your packages on mac.
 
@@ -9,7 +14,7 @@ Install [homebrew](https://brew.sh/) to manage your packages on mac.
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-> Packages
+> ***Packages***
 - True Color Terminal Like: [iTerm2](https://iterm2.com/)
 - [Neovim](https://neovim.io/) (Version 0.8 or Later)
 - [Nerd Font](https://www.nerdfonts.com/) - I use Meslo Nerd Font
@@ -28,7 +33,7 @@ brew install neovim
 brew install ripgrep
 ```
 
-> XCode Command Line Tools
+> ***XCode Command Line Tools***
 ```bash
 xcode-select --install
 ```
