@@ -3,6 +3,7 @@
 ***Experience is everything!***
 These settings can make you focus on your workflow and improve coding efficiency. 
 
+You can also find this page in my [blog](https://xxblog.net/Tools/My-workflow/).
 ![My work flow](https://raw.githubusercontent.com/yingxiaowoxx/Blog-img/master/img/93d1e7654df592a51374330b508c1106.png)
 
 ## iTerm2 + Oh My Zsh
