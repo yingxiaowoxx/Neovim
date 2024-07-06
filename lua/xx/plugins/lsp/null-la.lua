@@ -28,7 +28,7 @@ null_ls.setup({
 
 		-- C++ formatter & lintersj
 		formatting.clang_format,
-		diagnostics.clang_check,
+		--diagnostics.clang_check,
 
 		-- js/ts/md formatter
 		formatting.prettier,

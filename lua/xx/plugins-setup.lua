@@ -102,7 +102,7 @@ return packer.startup(function(use)
 	use("neovim/nvim-lspconfig") -- easily configure language servers
 	use("hrsh7th/cmp-nvim-lsp") -- for autocompletion
 	use({
-		"glepnir/lspsaga.nvim",
+		"nvimdev/lspsaga.nvim",
 		branch = "main",
 		requires = {
 			{ "nvim-tree/nvim-web-devicons" },
@@ -139,6 +139,9 @@ return packer.startup(function(use)
 			require("nvim-picgo").setup()
 		end,
 	})
+
+	-- copilot
+	use("github/copilot.vim")
 
 	if packer_bootstrap then
 		require("packer").sync()

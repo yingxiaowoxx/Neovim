@@ -45,7 +45,8 @@ mason_lspconfig.setup({
 mason_null_ls.setup({
 	-- list of formatters & linters for mason to install
 	ensure_installed = {
-		"pylint", -- python formatter
+		-- "pylint", -- python formatter
+		"pyright", -- python formatter
 		"isort", -- python linters
 		"black", -- python linters
 		"clang_format", -- Cpp formatter
